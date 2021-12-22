@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/icon_64_liangpinxuexi.png</file>
+        <file>icon/icon_64_open.png</file>
+        <file>icon/zoom_fix.png</file>
+        <file>icon/zoom_fullscreen.png</file>
+        <file>icon/zoom_in2.png</file>
+        <file>icon/zoom_next.png</file>
+        <file>icon/zoom_original.png</file>
+        <file>icon/zoom_out2.png</file>
+        <file>icon/zoom_pre.png</file>
+        <file>icon/zoom_roateleft.png.png</file>
+        <file>icon/zoom_roateright.png</file>
+    </qresource>
+</RCC>
